@@ -1,2 +1,2 @@
 # funddata-assessment
-Repository for Fundamentals of Das
+Repository for Fundamentals of Data Analysis assessment
