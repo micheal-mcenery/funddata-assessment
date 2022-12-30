@@ -1,5 +1,5 @@
 # Assessment: Fundamentals of Data Analysis
-## Author: Micheál McEnery (G00411327)
+### Author: Micheál McEnery (G00411327)
 
 This repository contains all of the files related to the Fundamentals of Data Analysis assessment created by Micheál McEnery.
 
